@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T13:57:35.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="FAhKQMOiIeoot2xhHyxn" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T14:00:21.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="XNrHAT_cuWbrkp9lmiXB" version="21.8.2" type="github">
   <diagram name="Trang-1" id="AS_zds_LbVpcgMNHFDUQ">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,31 @@
           <mxGeometry x="60" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XMj-M0O-RJH06PHTf3zE-2" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="60" height="40" as="geometry" />
+          <mxGeometry x="200" y="140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XMj-M0O-RJH06PHTf3zE-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMj-M0O-RJH06PHTf3zE-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMj-M0O-RJH06PHTf3zE-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="140" as="sourcePoint" />
+            <mxPoint x="300" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMj-M0O-RJH06PHTf3zE-6" value="Forgot password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XMj-M0O-RJH06PHTf3zE-7" value="Change password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
